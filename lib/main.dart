@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
 import 'screens/home.dart';
 import 'screens/login.dart';
+import 'utils/router.dart';
 
 void main(){
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  const MyApp();
 
   @override
   Widget build(BuildContext context) {
@@ -20,8 +21,8 @@ class MyApp extends StatelessWidget {
         )
       ),
       routes: {
-        '/': (context) => LoginScreen(),
-        '/home': (context) => HomePage(),
+        MyRoutes.loginRoute: (context) => LoginScreen(),
+        MyRoutes.homeRoute: (context) => HomePage(),
       },
     );
   }
