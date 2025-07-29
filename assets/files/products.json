@@ -1,0 +1,44 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "Samsung Galaxy S23",
+            "desc": "16GB RAM, 256GB Memory",
+            "price": 1200,
+            "color": "#33505a",
+            "image": "https://imgs.search.brave.com/XDIJRc2VQ4UEyd1s23SqhrVPQzqqw76USKO3eu86y5I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLnhkYWltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzAzL3NhbXN1/bmctZ2FsYXh5LXMy/My11bHRyYS5wbmc"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 15 Pro",
+            "desc": "8GB RAM, 512GB Storage",
+            "price": 1399,
+            "color": "#1e1e1e",
+            "image": "https://imgs.search.brave.com/a_Kq6oZ3qwFj_8s-ZBb8k8W2HptgbUqXB86QcL4tHns/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmllLmZ1dHVy/ZWNkbi5uZXQvcHJv/ZHVjdHMvZmYxMjA0/OWRhODY4MDE4Y2Nj/YmYzMjVjMjI1OWU1/NTFlYjI1NGM0MC0x/MDAtODAuanBnLndl/YnA"
+        },
+        {
+            "id": 3,
+            "name": "Google Pixel 8 Pro",
+            "desc": "12GB RAM, 256GB Storage",
+            "price": 999,
+            "color": "#3a3b3c",
+            "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "OnePlus 12",
+            "desc": "16GB RAM, 512GB Storage",
+            "price": 1099,
+            "color": "#204e64",
+            "image": "https://imgs.search.brave.com/muFK2D4Q7p1siJ_Ak_xLd9Ht_Ox7fB0CFFZ8rlTwXUc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZWRlbGl2ZXJ5Lm5l/dC83RDNOUUd5X2Fm/UFd3YmZjTzVBY2p3/L2NlbGx0cm9uaWNz/LmxrLzIwMjQvMDIv/T25lUGx1cy0xMi01/Ry5qcGcvdz04MDAs/aD04MDAsZml0PWNy/b3A"
+        },
+        {
+            "id": 5,
+            "name": "Xiaomi 14 Ultra",
+            "desc": "12GB RAM, 1TB Storage",
+            "price": 1199,
+            "color": "#202020",
+            "image": "https://imgs.search.brave.com/isgQ3XBDngKjwsGoPq-QgsJzIdIhgbVbaf_s4cixo0w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGVjaHNwZWNzLmlu/Zm8vX25leHQvaW1h/Z2UvP3VybD1odHRw/czovL3d3dy50ZWNo/c3BlY3MuaW5mby91/cGxvYWRzL1hpYW9t/aV8xNF9VbHRyYV9k/NmYzZDk3NWFkLmpw/ZyZ3PTY0MCZxPTc1"
+        }
+    ]
+}
