@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max",
+    "description": "The best running shoe with excellent cushioning.",
+    "price": 120.0,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d16d5396-b678-4c4b-8b71-4d9d591912e2/AIR+MAX+TL+2.5.png"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "description": "Ultra-lightweight with responsive cushioning.",
+    "price": 150.0,
+    "imageUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e9dd9ed74d1248b8a8cf8551bf52d3f4_9366/ultraboost-5-shoes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Puma RS-X",
+    "description": "Retro-inspired style with bold colors.",
+    "price": 100.0,
+    "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/398510/02/sv01/fnd/IND/fmt/png/RS-X-Glow-UP-Women's-Sneakers"
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Max",
+    "description": "The best running shoe with excellent cushioning.",
+    "price": 120.0,
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d16d5396-b678-4c4b-8b71-4d9d591912e2/AIR+MAX+TL+2.5.png"
+  },
+  {
+    "id": 5,
+    "name": "Adidas Ultraboost",
+    "description": "Ultra-lightweight with responsive cushioning.",
+    "price": 150.0,
+    "imageUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e9dd9ed74d1248b8a8cf8551bf52d3f4_9366/ultraboost-5-shoes.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Puma RS-X",
+    "description": "Retro-inspired style with bold colors.",
+    "price": 100.0,
+    "imageUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_350,h_350/global/398510/02/sv01/fnd/IND/fmt/png/RS-X-Glow-UP-Women's-Sneakers"
+  }
+]
