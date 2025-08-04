@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'product_detail_page.dart';
 
 class Product {
   final int id;
@@ -139,6 +140,16 @@ class MyApp extends StatelessWidget {
                             
                             return Card(
                               elevation: 4.0,
+                              child: InkWell(
+                                onTap: () => {
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                      builder: (context) => ProductDetails(product: product),
+                                    ),
+                                  )
+                                },
+      
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.stretch,
                                 children: [
@@ -174,6 +185,7 @@ class MyApp extends StatelessWidget {
                                     ),
                                   )
                                 ],
+                              ),
                               ),
                             );
                           },
